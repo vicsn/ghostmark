@@ -1,0 +1,14 @@
+{
+  "logDirectory": "",           // Directory where logsfiles will be written to
+  "port": ,                     // Port at which the application will listen for requests
+  "ghostUrl": "",               // Url at which your Ghost application is running
+  "ghostContentAPIkey": "",     // API key from Ghost
+  "ghostAdminAPIkey": "",       // API key from Ghost
+  "postmarkAPIkey": "",         // API key from Postmark
+  "postmarkMessagestream": "",  // Name of Postmark batchmail messagestream
+  "webhookUsername": "",        // Ghost webhook basic auth username
+  "webhookPassword": "",        // Ghost webhook basic auth password
+  "ghostDbPath": "",            // Path to your Ghost sql database
+  "senderEmailaddress": "",     // Sender noted in newsletter emails
+  "testEmailaddress": ""        // OPIONAL: if set, emails will only be sent to this address
+}

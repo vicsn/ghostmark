@@ -1,0 +1,27 @@
+{
+  "name": "ghostmark",
+  "version": "1.0.0",
+  "description": "Send Ghost newsletters via Postmark",
+  "main": "index.js",
+  "dependencies": {
+    "@tryghost/admin-api": "^1.4.0",
+    "@tryghost/content-api": "^1.5.1",
+    "flatted": "^3.1.1",
+    "mysql": "^2.18.1",
+    "postmark": "^2.7.3",
+    "sqlite3": "^5.0.2"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vicsn/ghostmark.git"
+  },
+  "author": "Victor Sint Nicolaas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vicsn/ghostmark/issues"
+  },
+  "homepage": "https://github.com/vicsn/ghostmark#readme"
+}
