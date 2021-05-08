@@ -48,3 +48,6 @@ node index.js --config <file>
     }
 
 ```
+
+## License
+MIT, see LICENSE
