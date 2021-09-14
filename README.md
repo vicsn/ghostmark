@@ -14,6 +14,12 @@ npm i
 node index.js --config <file>
 ```
 
+## Tested using
+```
+node v16.6.0
+npm v7.19.1
+```
+
 ## Example installation instructions
 
 1. Add custom integration with webhook in
